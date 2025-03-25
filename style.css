@@ -120,7 +120,7 @@ p {
 .bubble {
   display: block; /* Garante que os balões fiquem empilhados verticalmente */
   background-color: #000000;
-  color: #FFFFFF;
+  color: rgba(255, 255, 255, 1);
   padding: 15px;
   margin: 15px 0; /* Margem entre os balões */
   border-radius: 20px;
