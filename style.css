@@ -126,6 +126,7 @@ p {
   max-width: 100%; /* Garante que os balões não saiam da tela */
   text-align: left;
   font-size: 30px;
+  text-align: center;
 }
 
 .bubble p {
