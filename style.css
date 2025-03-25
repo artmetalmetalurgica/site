@@ -124,9 +124,8 @@ p {
   margin: 15px 0; /* Margem entre os balões */
   border-radius: 20px;
   max-width: 100%; /* Garante que os balões não saiam da tela */
-  text-align: left;
-  font-size: 30px;
   text-align: center;
+  font-size: 30px;
 }
 
 .bubble p {
