@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   
-  background-image: url('https://images.unsplash.com/photo-1617309215127-ebeb4eddeba5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBsYW5vJTIwZGUlMjBmdW5kbyUyMHByZXRvfGVufDB8fDB8fHww'); /* Caminho para a sua imagem de fundo */
+  background-image: url('https://github.com/artmetalmetalurgica/site/blob/main/fundo1.jpg'); /* Caminho para a sua imagem de fundo */
   background-size: cover; /* A imagem vai cobrir toda a tela */
   background-position: center center; /* Centraliza a imagem */
   background-attachment: fixed; /* A imagem ficará fixa enquanto o usuário rola a página */
