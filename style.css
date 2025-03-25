@@ -8,7 +8,7 @@ body, html {
     background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Alinha o conteúdo no topo */
+    justify-content: flex-start; /* Alinha o conteúdo no topo */
     align-items: center;
     color: white;
     position: relative;
